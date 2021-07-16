@@ -1,1 +1,2 @@
-todolist - Ważna?: true - 16/07/20/21
+zadanie 1 - Ważna?: true - 21/21/2021
+zadanie 2 - Ważna?: false - 10/20/2021

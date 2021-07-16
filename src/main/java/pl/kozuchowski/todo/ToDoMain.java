@@ -1,7 +1,6 @@
 package pl.kozuchowski.todo;
 
-import java.io.*;
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class ToDoMain {
